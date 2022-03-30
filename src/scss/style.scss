@@ -1,0 +1,25 @@
+* {
+    font-family: "Poppins", sans-serif;
+}
+@import "basic/ibg.scss";
+@import "basic/null.scss";
+@import "basic/variables.scss";
+@import "basic/mixins.scss";
+@import "basic/adaptive_properties.scss";
+
+@import "modules/title.scss";
+
+@import "modules/container.scss";
+@import "modules/main.scss";
+@import "modules/menu.scss";
+@import "modules/header.scss";
+@import "modules/button.scss";
+@import "modules/destination.scss";
+@import "modules/slider.scss";
+@import "modules/customer.scss";
+@import "modules/user.scss";
+@import "modules/stars.scss";
+@import "modules/explore.scss";
+@import "modules/subscribe.scss";
+@import "modules/email.scss";
+@import "modules/footer.scss";
